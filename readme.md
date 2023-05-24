@@ -6,6 +6,7 @@ Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che 
 Soluzione:
 
 1 - Definire lista nel dom
-2 - Recuperare lista in js
-3 - Ciclo lista (while)
-4 - Stampare lista
+2 - Array 
+3 - Recuperare lista in js
+4 - Ciclo lista (while)
+5 - Stampare lista
