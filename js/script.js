@@ -2,4 +2,9 @@ let listaSpesa = ['Zucchero', 'Lievito', 'Cacao', 'Sale', 'Cioccolato fondente',
 
 
 const lista = document.getElementById('lista-spesa');
-console.log(listaSpesa)
+let i = 0;
+while(i < listaSpesa.lenght){
+    console.log(listaSpesa[i]);
+    i++;
+}
+
